@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Algo%7C%7C+Enthusiast;JS+%7C%7C+TS+%7C%7C+React+%7C%7C+Vue+%7C%7C+Python+%7C%7C;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="hamed">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Algo+Enthusiast;JS+%7C%7C+TS+%7C%7C+React+%7C%7C+Vue+%7C%7C+Python;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="hamed">
 </p>
 <hr/>
 
-<!-- <img align="right" alt="GIF" src="https://github.com/hamed-iam/hamed-iam/blob/main/image/hamed-iam.gif" width="450" height="270" /> -->
+[![Linkedin](https://img.shields.io/badge/Linkedin-ff2929.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/hamed-ghazali/)
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
@@ -37,14 +37,16 @@ Here are some ideas to get you started:
 
 <p align="center">
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamed-iam&theme=tokyonight_duo&hide_border=true" alt="hamed-iam" />
-  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+  <p align="center"> Do what you love and believe, that's sheer power 🔥 </p>
 </p>
 
-## ⚡ Recent GitHub Activity
+<!-- ## ⚡ Recent GitHub Activity
 <br/>
  <img alt="hamed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hamed-iam&custom_title=hamed-iam's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
 <br/>
-
+ -->
+ ![Snake animation](github-contribution-grid-snake.svg)
+ 
 ## 📊 Github Stats
 
 <img align="left" alt="hamed-iam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hamed-iam&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
