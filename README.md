@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logo=shell&logoColor=white&color=3bac3a)
 
 ## 🔥 Streak Stats
 
