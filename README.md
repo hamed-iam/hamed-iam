@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="hamed-iam"> I'm <a href="https://github.com/hamed-iam" target="_blank">Hamed</a></h1>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="hamed-iam">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Algo+Enthusiast;JS+%7C%7C+TS+%7C%7C+React+%7C%7C+Vue+%7C%7C+Python;Provehito+In+Altum!&center=true&width=800&height=45" alt="hamed">
 </p>
