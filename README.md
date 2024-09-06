@@ -1,26 +1,18 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="hamed-iam">
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Algo+Enthusiast;JS+%7C%7C+TS+%7C%7C+React+%7C%7C+Vue+%7C%7C+Python;Provehito+In+Altum!&center=true&width=800&height=45" alt="hamed">
-</p>
-<hr/>
+# 💫 About Me:
+A full time software engineer and part time batman 😎
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-ff2929.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/hamed-ghazali/)
 
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
-![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logo=shell&logoColor=white&color=3bac3a)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hamed-ghazali/) 
 
-## 🔥 Streak Stats
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hamed-iam&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamed-iam&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-iam&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamed-iam&theme=tokyonight_duo&hide_border=true" alt="hamed-iam" />
-  <p align="center"> Do what you love and believe, that's sheer power 🔥 </p>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=hamed-iam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats
-
-<img align="left" alt="hamed-iam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hamed-iam&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,001,002,003" height="170px"/>
-<img align="right" alt="hamed-iam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamed-iam&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
