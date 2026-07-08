@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hamed Ghazali
 
-### Software Engineer | Tech Lead | Platform Engineering Enthusiast  
+### Software Engineer | Tech Lead | Platform Engineer  
 A full-time software engineer and part-time Batman 😎
 
 I'm a Software Engineer and Tech Lead with **12+ years of experience** building backend platforms, internal developer tooling, cloud products, and full-stack applications across e-commerce, cloud, and enterprise software.
